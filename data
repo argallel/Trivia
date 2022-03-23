@@ -1,8 +1,5 @@
 [
 {
-"category": "Science: Computers",
-"type": "multiple",
-"difficulty": "medium",
 "question": "Whistler was the codename of this Microsoft Operating System.",
 "correct_answer": "Windows XP",
 "incorrect_answers": [
@@ -12,9 +9,6 @@
 ]
 },
 {
-"category": "Science: Computers",
-"type": "multiple",
-"difficulty": "medium",
 "question": "What does the acronym CDN stand for in terms of networking?",
 "correct_answer": "Content Delivery Network",
 "incorrect_answers": [
@@ -24,9 +18,6 @@
 ]
 },
 {
-"category": "Science: Computers",
-"type": "multiple",
-"difficulty": "medium",
 "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
 "correct_answer": "Heat Sink",
 "incorrect_answers": [
@@ -36,9 +27,6 @@
 ]
 },
 {
-"category": "Science: Computers",
-"type": "multiple",
-"difficulty": "medium",
 "question": "What does &quot;LCD&quot; stand for?",
 "correct_answer": "Liquid Crystal Display",
 "incorrect_answers": [
@@ -48,9 +36,6 @@
 ]
 },
 {
-"category": "Science: Computers",
-"type": "multiple",
-"difficulty": "medium",
 "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
 "correct_answer": "FM-7",
 "incorrect_answers": [
@@ -60,9 +45,6 @@
 ]
 },
 {
-"category": "Science: Computers",
-"type": "multiple",
-"difficulty": "medium",
 "question": "What is known as &quot;the brain&quot; of the Computer?",
 "correct_answer": "Central Processing Unit",
 "incorrect_answers": [
@@ -72,9 +54,6 @@
 ]
 },
 {
-"category"": "Science: Computers",
-"type": "multiple",
-"difficulty": "medium",
 "question": "What does the term MIME stand for, in regards to computing?",
 "correct_answer": "Multipurpose Internet Mail Extensions",
 "incorrect_answers": [
@@ -84,9 +63,6 @@
 ]
 },
 {
-"category": "Science: Computers",
-"type": "multiple",
-"difficulty": "medium",
 "question": "The name of technology company HP stands for what?",
 "correct_answer": "Hewlett-Packard",
 "incorrect_answers": [
@@ -96,9 +72,6 @@
 ]
 },
 {
-"category": "Science: Computers",
-"type": "multiple",
-"difficulty": "medium",
 "question": "How many bytes are in a single Kibibyte?",
 "correct_answer": "1024",
 "incorrect_answers": [
@@ -108,9 +81,6 @@
 ]
 },
 {
-"category": "Science: Computers",
-"type": "multiple",
-"difficulty": "medium",
 "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
 "correct_answer": "Midnight, January 1, 1970",
 "incorrect_answers": [
